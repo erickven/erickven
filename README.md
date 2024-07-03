@@ -24,3 +24,8 @@ Atualmente cursando Tecnologia da Informação(TI) com enfâse em Informática P
 <div>
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
 </div>
+<br>
+<p align="left">
+  <img width="530em" src="https://github-readme-stats.vercel.app/api?username=erickven&show_icons=true&theme=vision-friendly-dark" alt="erickven's stats" />
+  <img width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erickven&layout=compact" />
+</p>
