@@ -1,6 +1,6 @@
 Olá, meu nome é Erick Venâncio.
 <br>
-Atualmente cursando Tecnolgia da Informação(TI) com enfâse em Informática Para Internet no IMD na UFRN(Univeridade Federal do Rio Grande do Norte), vivo ansioso para aprender novas tecnologias.
+Atualmente cursando Tecnologia da Informação(TI) com enfâse em Informática Para Internet no IMD na UFRN(Univeridade Federal do Rio Grande do Norte), vivo ansioso para aprender novas tecnologias.
 <br>
 <br>
 <h3>Conhecimentos Front-End:</h3> 
