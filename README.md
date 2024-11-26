@@ -12,6 +12,12 @@ Atualmente cursando Tecnologia da Informação(TI) com enfâse em Informática P
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
 </div>
 
+<h3>📊Conhecimentos Back-End:</h3>
+<br>
+<div>
+  
+</div>
+
 <h3>📚Frameworks/Bibliotecas:</h3>
 <div>
 <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
