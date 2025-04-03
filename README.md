@@ -76,7 +76,7 @@ Me chamo Erick Venâncio Mendes Rodrigues, tenho 16 anos e sou potiguar. No mome
     align='left'
     alt='Express'
     title = 'Express'
-    width = '30px'
+    width = '20px'
     style = 'padding-right: 10px;'
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" />
 
