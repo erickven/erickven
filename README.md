@@ -1,4 +1,4 @@
-# Erick Venâncio
+# 👩🏻‍💻 Erick Venâncio
 
 **`Técnico em TI - Programador/Desenvolvedor FullStack Júnior`**
 
@@ -6,7 +6,7 @@ Me chamo Erick Venâncio Mendes Rodrigues, tenho 16 anos e sou potiguar. No mome
 
 ---
 
-### Meu Aprendizado: Linguagens e Tecnologias
+### 📖 Meu Aprendizado: Linguagens e Tecnologias
 
 <img
     align='left'
@@ -116,7 +116,7 @@ Me chamo Erick Venâncio Mendes Rodrigues, tenho 16 anos e sou potiguar. No mome
 <br>
 <br>
 
-### IDE que uso:
+### 📝 IDE que uso:
 
 <img
     align='left'
@@ -128,7 +128,7 @@ Me chamo Erick Venâncio Mendes Rodrigues, tenho 16 anos e sou potiguar. No mome
 
 <br><br>
 
-### Estatísticas
+### 📊 Estatísticas
 <p>
     <img
         align='left'
