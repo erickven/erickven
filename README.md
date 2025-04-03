@@ -1,38 +1,150 @@
-Olá, meu nome é Erick Venâncio.
-<br>
-Atualmente cursando Tecnologia da Informação(TI) com enfâse em Informática Para Internet no IMD na UFRN(Univeridade Federal do Rio Grande do Norte), vivo ansioso para aprender novas tecnologias.
-<br>
-<br>
-<h3>📕Conhecimentos Front-End:</h3> 
-<br>
-<div>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-</div>
+# Erick Venâncio
 
-<h3>📊Conhecimentos Back-End:</h3>
-<br>
-<div>
-  
-</div>
+**`Técnico em TI - Programador/Desenvolvedor FullStack Júnior`**
 
-<h3>📚Frameworks/Bibliotecas:</h3>
-<div>
-<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
-<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-<img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
-<img src="https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00" />
-</div>
+Me chamo Erick Venâncio Mendes Rodrigues, tenho 16 anos e sou potiguar. No momento estou concluindo o ensino médio e conclui o curso técnico de Técnico em Ti com ênfase em informática para internet ou programação no Instituto Metrópole Digital na UFRN. Amo demais o ramo da tecnologia e sou mais apaixonado ainda pela programação, vivo ansioso para aprender novas linguagens, mecanismos e etc...
 
-<h3>🖋️IDE que uso:</h3
-<div>
-  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
-</div>
+---
+
+### Meu Aprendizado: Linguagens e Tecnologias
+
+<img
+    align='left'
+    alt='HTML'
+    title = 'HTML'
+    width = '30px'
+    style = 'padding-right: 10px;'
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+
+<img
+    align='left'
+    alt='CSS'
+    title = 'CSS'
+    width = '30px'
+    style = 'padding-right: 10px;'
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+
+<img
+    align='left'
+    alt='JavaScript'
+    title = 'JavaScript'
+    width = '30px'
+    style = 'padding-right: 10px;'
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+
+<img
+    align='left'
+    alt='TypeScript'
+    title = 'TypeScript'
+    width = '30px'
+    style = 'padding-right: 10px;'
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
+
+<img
+    align='left'
+    alt='React'
+    title = 'React'
+    width = '30px'
+    style = 'padding-right: 10px;'
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+
+<img
+    align='left'
+    alt='JQuery'
+    title = 'JQuery'
+    width = '30px'
+    style = 'padding-right: 10px;'
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" />
+
+<img
+    align='left'
+    alt='Svelte'
+    title = 'Svelte'
+    width = '30px'
+    style = 'padding-right: 10px;'
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/svelte/svelte-original.svg" />
+
+<img
+    align='left'
+    alt='NodeJS'
+    title = 'NodeJS'
+    width = '30px'
+    style = 'padding-right: 10px;'
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
+
+<img
+    align='left'
+    alt='Express'
+    title = 'Express'
+    width = '30px'
+    style = 'padding-right: 10px;'
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" />
+
+<img
+    align='left'
+    alt='Python'
+    title = 'Python'
+    width = '30px'
+    style = 'padding-right: 10px;'
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+
+<img
+    align='left'
+    alt='MySQL'
+    title = 'MySQL'
+    width = '30px'
+    style = 'padding-right: 10px;'
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
+
+<img
+    align='left'
+    alt='TailWindCSS'
+    title = 'TailWindCSS'
+    width = '30px'
+    style = 'padding-right: 10px;'
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
+
+<img
+    align='left'
+    alt='Bootstrap'
+    title = 'Bootstrap'
+    width = '30px'
+    style = 'padding-right: 10px;'
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
+
+
 <br>
-<h2>⚙️Analytics:</h2>
-<p align="left">
-  <img width="530em" src="https://github-readme-stats.vercel.app/api?username=erickven&show_icons=true&theme=vision-friendly-dark" alt="erickven's stats" />
-  <img width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erickven&layout=compact&theme=vision-friendly-dark" />
+<br>
+
+### IDE que uso:
+
+<img
+    align='left'
+    alt='VSCode'
+    title = 'VSCode'
+    width = '30px'
+    style = 'padding-right: 10px;'
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
+
+<br><br>
+
+### Estatísticas
+<p>
+    <img
+        align='left'
+        alt='Github Stats'
+        height='200'
+        style='padding-right: 10px;'
+        src="https://github-readme-stats.vercel.app/api?username=erickven&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
+    >
+    <img
+        align='left'
+        alt="Github Stats"
+        height="200"
+        style="padding-right: 10px;"
+        src='https://github-readme-stats.vercel.app/api/top-langs/?username=erickven&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9'
+    >
 </p>
+
+
+
